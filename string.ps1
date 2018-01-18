@@ -74,3 +74,34 @@ Chars            ParameterizedProperty char Chars(int index) {get;}
 Length           Property              int Length {get;}
 
 ```
+$string.ToLower()
+$string.ToUpper()
+$string.GetEnumerator()
+$string.Split()
+
+```
+test for methods
+TEST FOR METHODS
+T
+e
+s
+t
+
+f
+o
+r
+
+m
+e
+t
+h
+o
+d
+s
+Test
+for
+methods
+
+```
+
+
